@@ -1,3 +1,5 @@
+[Полный код здесь](https://github.com/ximik666/sprint_1t/blob/main/3.6/dags/first_dag.py)
+
 ### 1. Практика. Airflow. 
  - в docker разворачиваем образ, согласно инструкции [https://medium.com/@garc1a0scar/how-to-start-with-apache-airflow-in-docker-windows-902674ad1bbe](https://medium.com/@garc1a0scar/how-to-start-with-apache-airflow-in-docker-windows-902674ad1bbe)
 
