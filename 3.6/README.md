@@ -1,0 +1,1 @@
+[Смотреть Jupyter файл здесь](https://github.com/ximik666/sprint_1t/blob/main/3.6/3.6.ipynb)
