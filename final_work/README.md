@@ -16,8 +16,8 @@
 - [установка виртуального сервера](./install/VM.md)
 - [установка и настройка Clickhouse](./install/Clickhouse.md)
 - [установка и настройка модуля Mysql_to_Clickhouse для репликации логов с основной БД Mysql](./install/Mysql_to_click.md)
+- [сравнение производительности запросов в Mysql и Clickhouse](./install/Test_DB.md)
 - установка и настройка Grafana
-- сравнение производительности запросов в Mysql и Clickhouse
 - создание и форматирование dashbord в Grafana
 
 #### Используемые технологии
