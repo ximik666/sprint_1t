@@ -5,4 +5,5 @@
 1. ```select count(*) from XXXX.mdl_logstore_standard_log;```
 
 |Время выполнения запроса | Mysql | Clickhouse|
-|                         | 1 min 53.74 sec      | 0.139c     
+|-------------------------|-------|-----------|
+|                         | 1 min 53.74 sec      | 0.139c|     
