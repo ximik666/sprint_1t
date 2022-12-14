@@ -18,7 +18,11 @@
 - [установка и настройка модуля Mysql_to_Clickhouse для репликации логов с основной БД Mysql](./install/Mysql_to_click.md)
 - [сравнение производительности запросов в Mysql и Clickhouse](./install/Test_DB.md)
 - [установка и настройка Grafana](./install/Grafana.md)
+<<<<<<< Updated upstream
 - [создание и форматирование dashbord в Grafana](./install/Grafana_dash.md)
+=======
+- создание и форматирование dashbord в Grafana
+>>>>>>> Stashed changes
 
 #### Используемые технологии
 1. MySQL - это система управления базами данных.
