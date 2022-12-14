@@ -2,8 +2,6 @@
 
 Попробуем сравнить стандартые запросы выборки в Mysql и Clickhouse. Запросы для обоих СУБД будут идентичны.
 
-1. ```select count(*) from XXXX.mdl_logstore_standard_log;```
-
 |Запрос/Время выполнения запроса | Mysql | Clickhouse|
 |-------------------------|-------|-----------|
 |```select count(*) from XXXX.mdl_logstore_standard_log;```                         | 1 min 53.74 sec      | 0.139 sec|
