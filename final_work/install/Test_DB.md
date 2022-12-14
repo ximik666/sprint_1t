@@ -6,4 +6,4 @@
 
 |Время выполнения запроса | Mysql | Clickhouse|
 |-------------------------|-------|-----------|
-|                         | 1 min 53.74 sec      | 0.139c|     
+|```select count(*) from XXXX.mdl_logstore_standard_log;```                         | 1 min 53.74 sec      | 0.139c|     
