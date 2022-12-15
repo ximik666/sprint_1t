@@ -63,6 +63,8 @@
 
 ![](./img/diagram.png)
 
+[Сравнение производительности](./install/Test_DB.md)
+
 #### [Результаты разработки](./install/Grafana_dash.md) 
 
 #### Выводы
