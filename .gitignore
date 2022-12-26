@@ -1,2 +1,4 @@
 /3.3/venv
-/3.6/logs/
+/3.6/plugins
+/3.6/image
+/3.6/logs
