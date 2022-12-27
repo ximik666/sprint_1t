@@ -28,6 +28,7 @@
 - [сравнение производительности запросов в Mysql и Clickhouse](./install/Test_DB.md)
 - [установка и настройка Grafana](./install/Grafana.md)
 - [создание и форматирование dashbord в Grafana](./install/Grafana_dash.md)
+- [пример кода](./code/)
 
 #### Используемые технологии
 1. MySQL - это система управления базами данных.
